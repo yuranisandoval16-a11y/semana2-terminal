@@ -1,0 +1,9 @@
+Aprender a usar la terminal es importante para un desarrollador porque permite trabajar más rápido y con más control.
+Con la terminal puedo navegar entre carpetas, crear archivos y organizar proyectos sin usar el mouse.
+Esto ahorra mucho tiempo cuando los proyectos tienen cientos de archivos.
+Además, casi todos los servidores y herramientas de programación se usan desde terminal.
+Si no sé usarla, no podré subir mi código, instalar librerías o ejecutar programas.
+Usar comandos como pwd, ls, mkdir y cd me da orden en mi trabajo.
+También me ayuda a entender cómo funciona el sistema operativo por dentro.
+En resumen, la terminal es una habilidad básica que todo programador debe dominar.
+Desde ahora le voy a perder el miedo y practicar más.
