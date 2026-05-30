@@ -1,0 +1,7 @@
+   Comandos básicos de terminal:
+
+   pwd - Muestra donde estoy parado
+   ls - Lista lo que hay en la carpeta
+   cd carpeta - Entra a una carpeta
+   mkdir nueva - Crea carpeta nueva
+   touch archivo.txt - Crea archivo vacío
