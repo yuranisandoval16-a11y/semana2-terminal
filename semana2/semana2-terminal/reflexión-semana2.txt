@@ -1,0 +1,3 @@
+Aprendí que la terminal al inicio da miedo, pero solo es cuestión de practicar los comandos básicos. 
+Entendí que cd sirve para moverte entre carpetas, ls para ver qué hay, y mkdir para crear carpetas nuevas. 
+Lo más importante es que me di cuenta que equivocarme no rompe nada, y así se aprende más rápido.
